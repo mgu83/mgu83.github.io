@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mgu83
+  - maggieguu
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - maggieguu/miniproject2
+  - maggieguu/maggieguu.github.io
+  - mgu83/cpen291project
