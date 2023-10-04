@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -21,9 +21,13 @@ social: true  # includes social icons at the bottom of the page
 
 Currently studying computer engineering and math at the University of British Columbia. 
 
-I like working on practical problems that plague my everyday life. Currently, I am working on an app that scrapes the web for the cheapest produce prices. Take a look at it [projects page](/projects)
+I like working on practical problems that plague my everyday life. Currently working on an app that scrapes the web for the cheapest produce prices. Take a look at [projects page](/projects)
 
 Hoping to write some posts about personal finance (I used to daytrade), engineering and new technologies. 
+
+If you are a recruiter, you're probably looking for my [cv](/cv)! I just finished up working at `OVCARE` a cancer research lab. Currently working part-time as `Full-Stack` at a startup where I am focusing on building out some new features.
+
+
 
 <!-- Write your biography here this is maggie and i am here testing. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
