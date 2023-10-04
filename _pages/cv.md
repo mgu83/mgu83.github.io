@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 4
 cv_pdf: resume.pdf
-description: A summary of my experience
+description: Below is an overview of my experience. Make sure to check out my PDF resume!
 toc:
   sidebar: left
 ---

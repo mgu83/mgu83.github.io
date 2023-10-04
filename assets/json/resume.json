@@ -21,6 +21,34 @@
   },
   "work": [
     {
+      "name": "Tesla",
+      "position": "Project Management & Software Engineer Intern",
+      "url": "https://www.tesla.com/careers/internships",
+      "startDate": "2022-02-30",
+      "endDate": "2022-08-31",
+      "summary": "Project management, software & data engineering.",
+      "highlights": [
+        "React Native",
+        "Python",
+        "Go",
+        "Power BI"
+      ]
+    },
+    {
+      "name": "OVCARE",
+      "position": "Data Engineer",
+      "url": "http://www.ovcare.ca/",
+      "startDate": "2023-04-01",
+      "endDate": "2023-08-31",
+      "summary": "Designed data pipeline and graph algorithms to consolidate patient data and detect patterns and trends.",
+      "highlights": [
+        "R",
+        "SQL",
+        "Unit Testing",
+        "APIs"
+      ]
+    },
+    {
       "name": "Broadsight Tracker",
       "position": "Full-Stack Engineer (Part-Time)",
       "url": "https://www.broadsighttracker.ca/",
@@ -33,48 +61,26 @@
         "MongoDB",
         "AWS"
       ]
-    },
-    {
-      "name": "OVCARE",
-      "position": "Data Engineer",
-      "url": "http://www.ovcare.ca/",
-      "startDate": "2023-04-01",
-      "endDate": "2023-08-31",
-      "summary": "Designed data pipeline and graph algorithms to consolidate patient data and detect patterns and trends.",
-      "highlights": [
-        "R",
-        "SQL",
-        "Unit Testing",
-        "APIs"
-      ]
-    },
-    {
-      "name": "OVCARE",
-      "position": "Data Engineer",
-      "url": "http://www.ovcare.ca/",
-      "startDate": "2023-04-01",
-      "endDate": "2023-08-31",
-      "summary": "Designed data pipeline and graph algorithms to consolidate patient data and detect patterns and trends.",
-      "highlights": [
-        "R",
-        "SQL",
-        "Unit Testing",
-        "APIs"
-      ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "University of British Columbia, Vancouver, Canada",
+      "url": "https://www.ubc.ca/",
+      "area": "Computer Engineering",
+      "studyType": "Bachelors",
+      "startDate": "2023-09-01",
+      "endDate": "2025-05-01",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Operating Systems",
+        "Data Structures & Algorithms",
+        "Software Engineering",
+        "Mathematical Proofs",
+        "Algebra and Coding Theory",
+        "Schotastic Processes",
+        "Number Theory"
       ]
     }
   ],
