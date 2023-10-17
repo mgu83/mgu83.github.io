@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FireTracker
-description: Fire Detection Module + Web + Mobile App
+description: LAMP, React, ML with TensorFlow, Hardware
 img: assets/img/FireTrackerHome.jpg
 importance: 3
 category: fun
@@ -24,7 +24,7 @@ The wildfire detection module consists of two parts: the physical module and app
 
 This project integrated both hardware and software skills. In addition to being group leader (me + 3) and assisting wherever possible, I completed the entire mobile app and the backend and most of the front-end of the web app. For frontend, I used `React, Bootstrap & TailwindCSS` and then `LAMP` stack for backend.
 
-Unfortunately, I do not have any pictures of the physical product on hand, but have reached out to my teammates to ask. Below are a few that I did have.
+Below are the few pictures that I have.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

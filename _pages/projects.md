@@ -5,7 +5,7 @@ permalink: /projects/
 description: Updates are currently in progress.
 nav: true
 nav_order: 2
-display_categories: [fun]
+display_categories: [fun, work]
 horizontal: false
 ---
 

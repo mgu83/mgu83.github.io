@@ -1,7 +1,7 @@
 ---
 layout: page
-title: mealo
-description: Mobile app to find you best price of produce and generate grocery lists
+title: mealio
+description: Python (Beautiful Soup), TensorFlow, Swift
 img: 
 importance: 3
 category: fun

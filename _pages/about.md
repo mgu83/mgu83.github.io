@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Currently studying computer engineering and math at the University of British Columbia. 
+Currently studying `computer engineering and math` at the University of British Columbia. 
 
 I like working on practical problems that plague my everyday life. Currently working on an app that scrapes the web for the cheapest produce prices. Take a look at [projects page](/projects)
 
