@@ -54,7 +54,7 @@ nav_order: 3
 
     <div class="hover-card">
     <img
-      src="../assets/img/sunset1.jpg"
+      src="../assets/img/sunset1.JPG"
       class="w-100 shadow-1-strong rounded mb-4 z-depth-1 img-fluid"
       alt="UBC sunset"
     />
@@ -67,7 +67,7 @@ nav_order: 3
   <div class="col-lg-4 mb-4 mb-lg-0">
     <div class="hover-card">
     <img
-      src="../assets/img/banff.jpg"
+      src="../assets/img/banff.JPG"
       class="w-100 shadow-1-strong rounded mb-4"
       alt="Hiking in Banff"
     />
@@ -92,7 +92,7 @@ nav_order: 3
 
     <div class="hover-card">
     <img
-      src="../assets/img/film2.jpg"
+      src="../assets/img/film2.JPG"
       class="w-100 shadow-1-strong rounded mb-4 z-depth-1 img-fluid"
       alt="Film"
     />
