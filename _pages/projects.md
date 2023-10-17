@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Updates are currently in progress.
+description: Currently in progress.
 nav: true
 nav_order: 2
 display_categories: [fun, work]

@@ -19,15 +19,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Currently studying `computer engineering and math` at the University of British Columbia. 
+Currently studying computer engineering and math at the University of British Columbia. 
 
-I like working on practical problems that plague my everyday life. Currently working on an app that scrapes the web for the cheapest produce prices. Take a look at [projects page](/projects)
+I like working on a variety of projects. Currently working on an app that scrapes the web for the cheapest produce prices and also calculating sphere packing bounds in dimension 4. Take a look at [projects page](/projects)
 
-Hoping to write some posts about personal finance (I used to daytrade), engineering and new technologies. 
+Hoping to write some posts about personal finance, engineering and new technologies. Fun fact: I `daytraded` for first three years of university!
 
-If you are a recruiter, you're probably looking for my [cv](/cv)! I just finished up working at `OVCARE` a cancer research lab. Currently working part-time as `Full-Stack` at a startup where I am focusing on building out some new features.
+If you are a recruiter, you're probably looking for my [cv](/cv). I just finished up working at `OVCARE` a cancer research lab. Currently working part-time as `Full-Stack` at a startup where I am focusing on building out some new features.
 
-
+Please be patient with me as I update my website! These pages are a work in process.
 
 <!-- Write your biography here this is maggie and i am here testing. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

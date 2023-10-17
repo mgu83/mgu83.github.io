@@ -2,7 +2,7 @@
 layout: post
 title: friendsgiving 2023
 date: 2023-10-2 09:56:00-0400
-description: a friendsgiving celebration 
+description: a thanksgiving celebration 
 tags: images food
 categories: memory
 giscus_comments: true

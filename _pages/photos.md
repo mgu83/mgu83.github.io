@@ -1,0 +1,105 @@
+---
+layout: page
+permalink: /photos/
+title: photo album
+description: some food, some friends, some random
+nav: true
+nav_order: 3
+---
+<style>
+    .hover-card {
+        position: relative;
+        overflow: hidden;
+    }
+    .card-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0, 0, 0, 0.5); /* Dark background */
+        color: #fff; /* Text color */
+        opacity: 0;
+        transition: opacity 0.3s;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        max-height: 93%; 
+    }
+    .hover-card:hover .card-overlay {
+        opacity: 1; /* Show the overlay on hover */
+    }
+    .card-text {
+        color: white;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+</style>
+<!-- Gallery -->
+<div class="row">
+  <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+  <div class="hover-card">
+    <img
+      src="../assets/img/film1.jpg"
+      class="w-100 shadow-1-strong rounded mb-4 z-depth-1 img-fluid"
+      alt="Film"
+    />
+    <div class="card-overlay">
+        <p class="card-text">Playing around with digitally processing some negatives.</p>
+    </div>
+   </div>
+
+    <div class="hover-card">
+    <img
+      src="../assets/img/sunset1.jpg"
+      class="w-100 shadow-1-strong rounded mb-4 z-depth-1 img-fluid"
+      alt="UBC sunset"
+    />
+    <div class="card-overlay">
+        <p class="card-text">One of the prettiest sunsets I have seen while walking back from class.</p>
+    </div>
+   </div>
+  </div>
+
+  <div class="col-lg-4 mb-4 mb-lg-0">
+    <div class="hover-card">
+    <img
+      src="../assets/img/banff.jpg"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt="Hiking in Banff"
+    />
+    <div class="card-overlay">
+        <p class="card-text">Taken while hiking in Banff. Not edited!</p>
+    </div>
+    </div>
+
+  </div>
+
+  <div class="col-lg-4 mb-4 mb-lg-0">
+    <div class="hover-card">
+    <img
+      src="../assets/img/sushi.jpg"
+      class="w-100 shadow-1-strong rounded mb-4 z-depth-1 img-fluid"
+      alt="Raisu"
+    />
+    <div class="card-overlay">
+        <p class="card-text"> Aburi from Raisu in Vancouver</p>
+    </div>
+   </div>
+
+    <div class="hover-card">
+    <img
+      src="../assets/img/film2.jpg"
+      class="w-100 shadow-1-strong rounded mb-4 z-depth-1 img-fluid"
+      alt="Film"
+    />
+    <div class="card-overlay">
+        <p class="card-text">Film capturing my friends and I lighting sparklers.</p>
+    </div>
+   </div>
+  </div>
+</div>
+<!-- Gallery -->
