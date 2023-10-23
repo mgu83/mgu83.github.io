@@ -7,4 +7,6 @@ importance: 4
 category: fun
 ---
 
-More details coming soon...
+[Project Link](https://github.com/StanDarJeep/jbs-edumatch)
+
+Currently working on this as part of my software engineering class (CPEN 391). More to come soon...
