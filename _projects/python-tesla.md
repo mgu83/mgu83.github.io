@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Script @Tesla
+title: metadata @Tesla
 description: Python
 img: assets/img/tesla1.jpg
 importance: 2

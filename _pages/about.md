@@ -21,11 +21,11 @@ social: true  # includes social icons at the bottom of the page
 
 Currently studying computer engineering and math at the University of British Columbia. 
 
-I like working on a variety of projects. Currently working on an app that scrapes the web for the cheapest produce prices and also calculating sphere packing bounds in dimension 4. Take a look at [projects page](/projects)
+Lately, I have been working on an [app](/projects/EduMatch) with some friends and also writing parts of [OS161](http://www.os161.org/) (in C!) Take a look at [projects page](/projects)
 
-Hoping to write some posts about personal finance, engineering and new technologies. Fun fact: I `daytraded` for first three years of university!
+Hoping to write some posts about personal finance, engineering and new technologies. `Fun fact`: I daytraded for three years and yielded some significant returns!
 
-If you are a recruiter, you're probably looking for my [cv](/cv). I just finished up working at `OVCARE` a cancer research lab. Currently working part-time as `Full-Stack` at a startup where I am focusing on building out some new features.
+If you are a recruiter, you're probably looking for my [cv](/cv). I just finished up working at a cancer research lab and am currently doing `Full-Stack` at a startup.
 
 Please be patient with me as I update my website! These pages are a work in process.
 
