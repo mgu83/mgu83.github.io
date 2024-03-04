@@ -21,13 +21,13 @@ social: true  # includes social icons at the bottom of the page
 
 Currently studying computer engineering and math at the University of British Columbia. 
 
-Lately, I have been working on an [app](/projects/EduMatch) with some friends and also writing parts of [OS161](http://www.os161.org/) (in C!) Take a look at [projects page](/projects)
+I just finished up an [app](/projects/EduMatch) with some friends and wrote a basic operating system using [OS161](http://www.os161.org/) (in C!) I am currently expanding my web scraper grocery app idea by adding a computer vision element that will allows users to easily track what is in their fridge. Take a look at [projects page](/projects)
 
 Hoping to write some posts about personal finance, engineering and new technologies. `Fun fact`: I daytraded for three years and yielded some significant returns!
 
-If you are a recruiter, you're probably looking for my [cv](/cv). I just finished up working at a cancer research lab and am currently doing `Full-Stack` at a startup.
+If you are a recruiter, you're probably looking for my [cv](/cv). I am currently doing `Full-Stack` at a startup and looking for an internship for summer 2024!
 
-Please be patient with me as I update my website! These pages are a work in process.
+
 
 <!-- Write your biography here this is maggie and i am here testing. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

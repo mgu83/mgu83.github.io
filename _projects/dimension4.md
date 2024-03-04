@@ -3,7 +3,7 @@ layout: page
 title: SPB in 4-D
 description: Python, R
 img: assets/img/math.png
-importance: 2
+importance: 5
 category: fun
 ---
 

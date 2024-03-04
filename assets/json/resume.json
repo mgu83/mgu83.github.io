@@ -75,11 +75,14 @@
       "score": "",
       "courses": [
         "Operating Systems",
-        "Data Structures & Algorithms",
+        "Advanced Data Structures & Algorithms",
         "Software Engineering",
         "Mathematical Proofs",
         "Algebra and Coding Theory",
         "Schotastic Processes",
+        "Computer Communications",
+        "Program Analysis",
+        "Relational Databases",
         "Number Theory"
       ]
     }
@@ -96,6 +99,7 @@
       "keywords": [
         "Java",
         "C++",
+        "Python",
         "R",
         "JavaScript"
       ]
