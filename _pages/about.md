@@ -19,13 +19,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Currently studying computer engineering and math at the University of British Columbia. 
+Currently studying computer engineering at the University of British Columbia. 
 
 I just finished up an [app](/projects/EduMatch) with some friends and wrote a basic operating system using [OS161](http://www.os161.org/) (in C!) I am currently expanding my web scraper grocery app idea by adding a computer vision element that will allows users to easily track what is in their fridge. Take a look at [projects page](/projects)
 
 Hoping to write some posts about personal finance, engineering and new technologies. `Fun fact`: I daytraded for three years and yielded some significant returns!
 
-If you are a recruiter, you're probably looking for my [cv](/cv). I am currently doing `Full-Stack` at a startup and looking for an internship for summer 2024!
+If you are a recruiter, you're probably looking for my [cv](/cv). I am going to be working at Amazon as well as doing research at the [SALT Lab](https://salt.ece.ubc.ca/) this summer! I am currently looking for full time roles starting Summer or Fall 2025. 
 
 
 
