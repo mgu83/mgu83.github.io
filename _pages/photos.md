@@ -2,7 +2,7 @@
 layout: page
 permalink: /photos/
 title: photo album
-description: some food, some friends, some random (not professionally taken)
+description: some digital shots, but mostly dabbling in film. taken mostly on fujifilm jelly camera and olympus infinity zoom.
 nav: true
 nav_order: 3
 ---
@@ -41,6 +41,13 @@ nav_order: 3
 <!-- Gallery -->
 <div class="row">
   <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+   <div class="hover-card">
+    <img
+      src="../assets/img/bluffs.jpg"
+      class="w-100 shadow-1-strong rounded mb-4 z-depth-1 img-fluid"
+      alt="Film"
+    />
+    </div>
   <div class="hover-card">
     <img
       src="../assets/img/IMG_4764.jpg"
@@ -78,6 +85,13 @@ nav_order: 3
   </div>
 
   <div class="col-lg-4 mb-4 mb-lg-0">
+     <div class="hover-card">
+    <img
+      src="../assets/img/sunset.jpg"
+      class="w-100 shadow-1-strong rounded mb-4 z-depth-1 img-fluid"
+      alt="Film"
+    />
+    </div>  
     <div class="hover-card">
     <img
       src="../assets/img/banff.JPG"
@@ -103,16 +117,14 @@ nav_order: 3
   </div>
 
   <div class="col-lg-4 mb-4 mb-lg-0">
-    <!-- <div class="hover-card">
+    
+    <div class="hover-card">
     <img
-      src="../assets/img/sushi.jpg"
+      src="../assets/img/kalamaka.jpg"
       class="w-100 shadow-1-strong rounded mb-4 z-depth-1 img-fluid"
-      alt="Raisu"
+      alt="Film"
     />
-    <div class="card-overlay">
-        <p class="card-text"> Aburi from Raisu in Vancouver</p>
     </div>
-   </div> -->
 
     <div class="hover-card">
     <img
