@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pipeline @OVCARE
+title: data engineer @OVCARE
 description: R, SQL, Data Analysis
 img: assets/img/computer.png
 importance: 1
