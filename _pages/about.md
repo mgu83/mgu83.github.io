@@ -19,15 +19,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Currently taking a break after graduating with my Computer Engineering degree at the University of British Columbia.
+Currently working in Shipping Optimization at Amazon. I build systems that solve and explain optimization problems and trade-offs.
 
-I am back in my hometime and spend my days taking care of family, and working on home improvement projects. I have spent
-plenty of time watching YouTube videos about how to spackle drywall and the best way to encourage grass growth 
-(use a spreader and plenty of water BTW). 
+A little about me outside of work. My passion project is this app that my friends and I came up with, inspired by our interest in fantasy sports and financial markets. I recently picked up pottery, so I try to get in a three hour session every weekend. If you're looking for a book recommendation, I highly recommend "Good Morning, Monster" by Catherine Gildiner. 
 
-Even though I have limited time nowadays, I really like to read. "Good Morning, Monster" by Catherine 
-Gildiner was the last book that had me in tears. 
-
+My brain is always curious. My current interest is automated reasoning so I've been learning more about mathmatical logic, contributing to some open source packages, and working on some proofs. If you're interested, this is a [great starting off point](https://www.amazon.science/blog/a-gentle-introduction-to-automated-reasoning).
 
 
 <!-- Currently studying computer engineering at the University of British Columbia. 
