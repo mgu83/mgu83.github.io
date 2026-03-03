@@ -23,7 +23,7 @@ Currently working in Shipping Optimization at Amazon. I build systems that solve
 
 A little about me outside of work. My passion project is this app that my friends and I came up with, inspired by our interest in fantasy sports and financial markets. I recently picked up pottery, so I try to get in a three hour session every weekend. If you're looking for a book recommendation, I highly recommend "Good Morning, Monster" by Catherine Gildiner. 
 
-My brain is always running and curious. My current interest is automated reasoning so I've been learning more about mathmatical logic, contributing to some open source packages, and working on some proofs. If you're interested, this is a [great starting off point](https://www.amazon.science/blog/a-gentle-introduction-to-automated-reasoning).
+My brain is always running and curious. My life motto is "always do interesting things." My current interest is automated reasoning so I've been learning more about mathmatical logic, contributing to some open source packages, and working on some proofs. If you're interested, this is a [great starting off point](https://www.amazon.science/blog/a-gentle-introduction-to-automated-reasoning).
 
 
 <!-- Currently studying computer engineering at the University of British Columbia. 
