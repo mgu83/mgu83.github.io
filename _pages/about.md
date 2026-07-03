@@ -14,30 +14,13 @@ profile:
     <p></p>
 
 news: false  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Currently working in Shipping Optimization at Amazon. I build systems that solve and explain optimization problems and trade-offs.
+During the day, I work as a SWE in Shipping Optimization at Amazon, where I build systems that manage the massive, high-stakes trade-offs behind getting a package to your door on time. It's a world of constraints, incentives, and split-second decisions at a scale most people never see
 
-A little about me outside of work. My passion project is this app that my friends and I came up with, inspired by our interest in fantasy sports and financial markets. I recently picked up pottery, so I try to get in a three hour session every weekend. If you're looking for a book recommendation, I highly recommend "Good Morning, Monster" by Catherine Gildiner. 
+A little about me outside of work. My passion project, StockDraft, started as a late-night idea with friends who share my obsession with fantasy sports and financial markets, and it's grown into something I'm genuinely excited about. It's led me deep into the world of prediction markets, where I'm exploring how we can use LLMs to explore collective forecasting, and incentive design.
 
-My brain is always running and curious. My life motto is "always do interesting things." My current interest is automated reasoning so I've been learning more about mathmatical logic, contributing to some open source packages, and working on some proofs. If you're interested, this is a [great starting off point](https://www.amazon.science/blog/a-gentle-introduction-to-automated-reasoning).
-
-
-<!-- Currently studying computer engineering at the University of British Columbia. 
-
-I just finished up an [app](/projects/EduMatch) with some friends and wrote a basic operating system using [OS161](http://www.os161.org/) (in C!) I am currently expanding my web scraper grocery app idea by adding a computer vision element that will allows users to easily track what is in their fridge. Take a look at [projects page](/projects)
-
-Hoping to write some posts about personal finance, engineering and new technologies. `Fun fact`: I daytraded for three years and yielded some significant returns!
-
-If you are a recruiter, you're probably looking for my [cv](/cv). I am going to be working at Amazon as well as doing research at the [SALT Lab](https://salt.ece.ubc.ca/) this summer! I am currently looking for full time roles starting Summer or Fall 2025.  -->
-
-
-
-<!-- Write your biography here this is maggie and i am here testing. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+Otherwise, you'll find me baking plenty of goods, especially anything sourdough based, and hiking through the west coast mountains.
