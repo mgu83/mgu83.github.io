@@ -4,7 +4,7 @@ title: low-level tcp
 description: C, Computer Communications
 img: assets/img/tcp.png
 importance: 3
-category: fun
+category: work
 ---
 
 [Project Link](https://github.com/mgu83/tcp-implementation)
